@@ -2,13 +2,13 @@
 
 ### Mi nombre es Andrés Umaña, Soy un estudiante universitario interesado en el desarrollo Front-End.
  
-Actualmente busco conocer un equipo con los mismos intereses, del cual  pueda apoyarme y compartir conocimiento, me desenvuelvo bien con el trabajo en equipo y tengo fácilidad para comprender temas de mi interés.
+Actualmente busco ampliar mi conocimiento en temas de mi interés.
 #
 # Welcome 👋
 
 ### My name is Andrés Umaña, i'm a university student interested in Front-End development.
  
-I am currently looking to meet a team with the same interests, who can support me and share knowledge, I get along well with teamwork and I have an easy time understanding topics of interest to me.
+I am currently looking to expand my knowledge on topics of interest to me.
 
 <!--
 **AndUm23/AndUm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
