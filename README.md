@@ -1,15 +1,19 @@
 # Bienvenido 👋
 
-### Mi nombre es Andrés Umaña, Soy un estudiante universitario interesado en el desarrollo Front-End.
+### Mi nombre es Andrés Umaña, Soy un estudiante universitario interesado en el desarrollo Web.
  
 Actualmente busco ampliar mi conocimiento en temas de mi interés.
 #
 # Welcome 👋
 
-### My name is Andrés Umaña, i'm a university student interested in Front-End development.
+### My name is Andrés Umaña, i'm a university student interested in Web development.
  
 I am currently looking to expand my knowledge on topics of interest to me.
 
+#
+<p align="center">
+<a href="https://www.linkedin.com/in/andr%C3%A9s-uma%C3%B1a-730874171/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ronald-berduo" height="20" width="20" /></a>
+</p>
 <!--
 **AndUm23/AndUm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
